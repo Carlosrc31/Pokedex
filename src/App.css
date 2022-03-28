@@ -32,6 +32,7 @@ body{
 
 .square > h2{
   font-size: 6rem;
+  text-shadow: 10px 10px 20px black;
 }
 
 .square-top{
